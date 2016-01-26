@@ -1,0 +1,7 @@
+ligne1 l1-champ2 l1-champ3 l1-champ4
+ligne2 l2-champ2 l2-champ3 l2-champ4
+ligne3 l3-champ2 l3-champ3 l3-champ4
+ligne4 l4-champ2 l4-champ3 l4-champ4
+ligne5 l5-champ2 l5-champ3 l5-champ4
+ligne6 l6-champ2 l6-champ3 l6-champ4
+ligne7 l7-champ2 l7-champ3 l7-champ4
